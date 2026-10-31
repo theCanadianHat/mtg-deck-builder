@@ -1,0 +1,31 @@
+1 Raging Goblin (OANA) 43
+1 Zurgo Bellstriker (DTK) 169
+1 Ash Zealot (RTR) 86
+1 Goblin Piker (M12) 141
+1 Boggart Brute (JMP) 299
+1 Brazen Scourge (FDN) 191
+1 Breakneck Berserker (KHM) 124
+1 Goblin Chainwhirler (DOM) 129
+1 Hellrider (JMP) 334
+1 Bloodcrusher of Khorne (40K) 72
+1 Stormbreath Dragon (TDC) 237
+1 Thundermaw Hellkite (IMA) 149
+1 Charging Monstrosaur (XLN) 138
+1 Siege-Gang Commander (PLST) DMR-136
+1 Fire Elemental (FDN) 538
+1 Hill Giant (10E) 212
+1 Furnace Whelp (JMP) 323
+1 Bloodsworn Steward (VOC) 144
+1 Lightning Bolt (MSC) 806
+1 Chain Lightning (DMR) 113
+1 Lightning Strike (MSH) 142
+1 Searing Spear (E01) 56
+1 Incinerate (JVC) 51
+1 Burst Lightning (FDN) 192
+1 Flame Slash (CN2) 157
+1 Roast (DTK) 151
+1 Fervor (M13) 129
+1 Mizzium Mortars (CLB) 803
+1 Dragon Fodder (FDN) 535
+1 Hordeling Outburst (A25) 134
+1 Krenko's Command (CLU) 139

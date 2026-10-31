@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Magic: The Gathering – Turn Structure</title>
+<style>
+  body { font-family: system-ui, sans-serif; background:#14161c; color:#e8e8ee; margin:0; padding:24px; }
+  h1 { text-align:center; margin:0 0 4px; }
+  .sub { text-align:center; color:#9aa; margin-bottom:20px; }
+  .legend { display:flex; gap:16px; justify-content:center; flex-wrap:wrap; margin-bottom:24px; font-size:14px; }
+  .legend span { display:flex; align-items:center; gap:6px; }
+  .dot { width:14px; height:14px; border-radius:3px; display:inline-block; }
+  .phases { display:grid; grid-template-columns:repeat(5, 1fr); gap:14px; align-items:stretch; max-width:1700px; margin:auto; }
+  .phase { background:#1e222c; border-radius:10px; padding:10px; display:flex; flex-direction:column; gap:8px; border-top:5px solid var(--c); }
+  .phase h2 { margin:0; font-size:17px; text-align:center; color:var(--c); }
+  .phase .num { text-align:center; font-size:12px; color:#889; }
+  .step { background:#272c38; border-radius:8px; padding:8px 10px; font-size:13px; flex:1; }
+  .step h3 { margin:0 0 4px; font-size:14px; }
+  .step ul { margin:4px 0 0; padding-left:16px; }
+  .step li { margin:2px 0; }
+  .tag { display:inline-block; font-size:11px; padding:1px 6px; border-radius:4px; margin-right:4px; font-weight:600; color:#111; }
+  .none { background:#666; color:#fff; }
+  .inst { background:#4fa3ff; }
+  .sorc { background:#ffb74d; }
+  .note { color:#9aa; font-size:12px; margin-top:4px; }
+  .arrow { text-align:center; color:#667; font-size:18px; line-height:1; }
+  footer { max-width:1100px; margin:24px auto 0; font-size:13px; color:#aab; line-height:1.5; }
+</style>
+</head>
+<body>
+<h1>Anatomy of a Magic Turn</h1>
+<div class="sub">5 phases · 12 steps/phases · what you can cast or activate in each</div>
+
+<div class="legend">
+  <span><i class="dot" style="background:#4fa3ff"></i>Instant speed: instants, flash permanents, activated abilities, triggers (any player with priority)</span>
+  <span><i class="dot" style="background:#ffb74d"></i>Sorcery speed: only active player, own main phase, empty stack</span>
+  <span><i class="dot" style="background:#666"></i>No priority given</span>
+</div>
+
+<div class="phases">
+
+  <div class="phase" style="--c:#7bd88f">
+    <h2>1. Beginning Phase</h2><div class="num">3 steps</div>
+    <div class="step">
+      <h3>Untap</h3><span class="tag none">No priority</span>
+      <ul><li>Active player untaps all permanents</li><li>Phasing happens first</li><li>Nothing can be cast; "beginning of untap" effects are rare</li></ul>
+    </div>
+    <div class="step">
+      <h3>Upkeep</h3><span class="tag inst">Instant speed</span>
+      <ul><li>Instants &amp; flash creatures</li><li>Activated abilities</li><li>"At the beginning of your upkeep" triggers (e.g. Phyrexian Arena-style, Vampiric Link)</li></ul>
+    </div>
+    <div class="step">
+      <h3>Draw</h3><span class="tag inst">Instant speed</span>
+      <ul><li>Active player draws a card (no priority during the draw itself)</li><li>Then priority: instants, flash, abilities</li></ul>
+    </div>
+  </div>
+
+  <div class="phase" style="--c:#ffb74d">
+    <h2>2. Precombat Main</h2><div class="num">1 phase</div>
+    <div class="step" style="flex:3">
+      <h3>Main Phase 1</h3><span class="tag sorc">Sorcery speed</span><span class="tag inst">+ Instant</span>
+      <ul>
+        <li><b>Land</b> – 1 per turn (special action, doesn't use stack)</li>
+        <li><b>Creatures</b></li>
+        <li><b>Sorceries</b></li>
+        <li><b>Artifacts</b> &amp; Equipment (and Equip)</li>
+        <li><b>Enchantments</b> (Auras, Sagas, Classes, Rooms)</li>
+        <li><b>Planeswalkers</b> + one loyalty ability each</li>
+        <li><b>Battles</b></li>
+        <li>Instants, flash cards, activated abilities</li>
+        <li>Sorcery-speed abilities (Equip, Level up, Crew timing is instant)</li>
+        <li>Saga lore counter added at start of this phase</li>
+      </ul>
+      <div class="note">Stack must be empty and you must hold priority. Common spot to cast ramp, sweepers, and setup before attacking.</div>
+    </div>
+  </div>
+
+  <div class="phase" style="--c:#ff6b6b">
+    <h2>3. Combat Phase</h2><div class="num">5 steps (6 with first/double strike)</div>
+    <div class="step">
+      <h3>Beginning of Combat</h3><span class="tag inst">Instant speed</span>
+      <ul><li>Last chance to tap/remove potential blockers or attackers</li><li>Flash creatures, removal, pump</li></ul>
+    </div>
+    <div class="step">
+      <h3>Declare Attackers</h3><span class="tag inst">Instant speed</span>
+      <ul><li>Attackers chosen &amp; tapped; "whenever attacks" triggers</li><li>Defender: flash blockers, removal, fog</li></ul>
+    </div>
+    <div class="step">
+      <h3>Declare Blockers</h3><span class="tag inst">Instant speed</span>
+      <ul><li>Combat tricks, pump, protection, removal</li><li>Skipped if no attackers</li></ul>
+    </div>
+    <div class="step">
+      <h3>Combat Damage</h3><span class="tag inst">Instant speed</span>
+      <ul><li>Damage dealt simultaneously (extra First-strike step happens first if relevant)</li><li>After damage: instants, "deals combat damage" triggers</li></ul>
+    </div>
+    <div class="step">
+      <h3>End of Combat</h3><span class="tag inst">Instant speed</span>
+      <ul><li>Instants, abilities, "end of combat" triggers</li></ul>
+    </div>
+  </div>
+
+  <div class="phase" style="--c:#ffb74d">
+    <h2>4. Postcombat Main</h2><div class="num">1 phase</div>
+    <div class="step" style="flex:3">
+      <h3>Main Phase 2</h3><span class="tag sorc">Sorcery speed</span><span class="tag inst">+ Instant</span>
+      <ul>
+        <li>Same as Main Phase 1</li>
+        <li>Land drop (if not made yet)</li>
+        <li>Creatures, sorceries, artifacts, enchantments, planeswalkers, battles</li>
+        <li>Instants and abilities</li>
+      </ul>
+      <div class="note">Cast creatures here to hide info before combat, or after seeing combat results. Hold the land drop to bluff.</div>
+    </div>
+  </div>
+
+  <div class="phase" style="--c:#b48cff">
+    <h2>5. Ending Phase</h2><div class="num">2 steps</div>
+    <div class="step">
+      <h3>End Step</h3><span class="tag inst">Instant speed</span>
+      <ul><li>Instants and flash creatures (classic "end of turn" plays)</li><li>Activated abilities</li><li>"At the beginning of the end step" triggers</li></ul>
+    </div>
+    <div class="step">
+      <h3>Cleanup</h3><span class="tag none">Usually no priority</span>
+      <ul>
+        <li>Active player discards down to 7 cards</li>
+        <li>Damage wears off; "until end of turn" effects end</li>
+        <li>Priority only if a state trigger/trigger fires, then another cleanup step</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  <b>Rules of thumb:</b>
+  <ul>
+    <li>Instants, flash, and abilities can be used any time you have priority (every step except Untap and usually Cleanup).</li>
+    <li>Lands, creatures, sorceries, artifacts, enchantments, planeswalkers, and battles (without flash) require your own main phase with an empty stack.</li>
+    <li>In multiplayer (Commander), non-active players receive priority in every step too, so they can respond at instant speed on your turn.</li>
+  </ul>
+</footer>
+</body>
+</html>

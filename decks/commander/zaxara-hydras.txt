@@ -1,0 +1,86 @@
+1 Altered Ego (SOC) 292
+1 Arcane Signet (FRC) 20
+1 Assassin's Trophy (SOC) 294
+1 Beast Within (MSC) 169
+1 Benevolent Hydra (SOC) 124
+1 Birds of Paradise (MSC) 170
+1 Blue Sun's Zenith (A25) 44
+1 Branching Evolution (MH3) 285
+1 Breeding Pool (TRK) 279
+1 Cavern of Souls (LCI) 269
+1 Clever Impersonator (C19) 82
+1 Command Tower (FRC) 22
+1 Counterspell (DSC) 114
+1 Cultivate (MSC) 172
+1 Cyclonic Rift (RVR) 40
+1 Door of Destinies (MSC) 198
+1 Doubling Season (FDN) 216
+1 Eternal Witness (CMM) 286
+1 Evolving Wilds (MSC) 240
+1 Exotic Orchard (MBC) 79
+1 Exsanguinate (FDN) 173
+1 Fabled Passage (FRC) 71
+1 Farseek (MSC) 173
+1 Fellwar Stone (MBC) 74
+1 Finale of Devastation (CMM) 289
+9 Forest (TRK) 325
+1 Genesis Hydra (OTC) 193
+1 Genesis Wave (FDN) 221
+1 Hangarback Walker (SOC) 348
+1 Hardened Scales (SOC) 272
+1 Herald's Horn (LCC) 304
+1 Heroic Intervention (CMM) 295
+1 Hooded Hydra (MKC) 171
+1 Hydra Broodmaster (C21) 194
+1 Hydroid Krasis (SOC) 315
+5 Island (TRK) 319
+1 Kalonian Hydra (MOC) 305
+1 Kindred Discovery (MSC) 150
+1 Kodama's Reach (ECC) 113
+1 Lair of the Hydra (AFR) 259
+1 Lightning Greaves (MSC) 202
+1 Managorger Hydra (MOC) 307
+1 Mind Spring (BLB) 389
+1 Mind Stone (MBC) 76
+1 Mistcutter Hydra (THS) 162
+1 Misty Rainforest (MH2) 250
+1 Mulldrifter (ECC) 67
+1 Nature's Lore (MSC) 177
+1 Neverwinter Hydra (AFC) 41
+1 Overgrown Tomb (TRK) 289
+1 Path of Ancestry (MBC) 80
+1 Phyrexian Arena (FDN) 180
+1 Phyrexian Metamorph (EOC) 75
+1 Polluted Delta (MH3) 224
+1 Polukranos, Unchained (THB) 224
+1 Polukranos, World Eater (THS) 172
+1 Primordial Hydra (SOC) 284
+1 Prismatic Vista (MH1) 244
+1 Protean Hydra (M11) 194
+1 Putrefy (ECC) 131
+1 Rhystic Study (J22) 114
+1 Sakura-Tribe Elder (SOC) 285
+1 Sol Ring (FRC) 21
+1 Spark Double (RVR) 62
+1 Steelbane Hydra (SOC) 288
+1 Stonecoil Serpent (SOC) 356
+1 Stumpsquall Hydra (CMR) 367
+5 Swamp (TRK) 321
+1 Swiftfoot Boots (MBC) 77
+1 Sylvan Library (DMR) 179
+1 Talisman of Curiosity (MKC) 241
+1 Talisman of Dominance (FRC) 62
+1 Talisman of Resilience (DSC) 255
+1 Terramorphic Expanse (MSC) 273
+1 Toxic Deluge (MSC) 161
+1 Urza's Incubator (MH3) 297
+1 Vanquisher's Banner (LCC) 316
+1 Verdant Catacombs (MH2) 260
+1 Villainous Wealth (OTC) 249
+1 Vorinclex, Monstrous Raider (KHM) 199
+1 Walking Ballista (2XM) 306
+1 Watery Grave (TRK) 306
+1 Zagoth Triome (IKO) 259
+
+COMMANDER:
+1 Zaxara, the Exemplary (DMC) 176

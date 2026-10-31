@@ -1,0 +1,18 @@
+4 Monastery Swiftspear (BRO) 144
+4 Soul-Scar Mage (AKH) 148
+4 Sprite Dragon (CLB) 852
+3 Stormwing Entity (M21) 73
+4 Lightning Bolt (MSC) 806
+3 Burst Lightning (FDN) 192
+2 Lava Dart (MH1) 134
+4 Consider (TLE) 157
+4 Expressive Iteration (MSC) 183
+3 Mutagenic Growth (MM2) 149
+2 Manamorphose (2XM) 208
+2 Temur Battle Rage (CMM) 264
+2 Spell Pierce (DFT) 64
+4 Steam Vents (TRK) 298
+4 Spirebluff Canal (OTJ) 270
+4 Scalding Tarn (MH2) 254
+4 Island (TRK) 319
+3 Mountain (TRK) 323

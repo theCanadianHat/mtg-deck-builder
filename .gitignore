@@ -1,0 +1,5 @@
+.specky/**
+.github/agents/specky*
+.github/agents/jira*
+.github/instructions/specky*
+.github/skills/jira*

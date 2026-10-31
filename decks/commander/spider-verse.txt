@@ -1,0 +1,99 @@
+1 Spinneret and Spiderling (SPM) 94
+1 Masked Meower (MSC) 807
+1 Miles Morales // Ultimate Spider-Man (SPM) 108
+1 Gwen Stacy // Ghost-Spider (SPM) 78
+1 Peter Parker // Amazing Spider-Man (SPM) 10
+1 Spider-Ham, Peter Porker (SPM) 114
+1 Spider-Man 2099 (SPM) 150
+1 Spider-Woman, Stunning Savior (SPM) 152
+1 Spider-Punk (SPM) 92
+1 Spider-Girl, Legacy Hero (SPM) 149
+1 Lady Spider, Maybelle Reilly (MSC) 695
+1 Spiders-Man, Heroic Horde (SPM) 117
+1 Spectacular Spider-Man (PSPL) 6
+1 Skyward Spider (SPM) 146
+1 Spider-Gwen, Free Spirit (MSC) 874
+1 Scarlet Spider, Ben Reilly (SPM) 142
+1 Spider-Byte, Web Warden (SPM) 44
+1 Araña, Heart of the Spider (SPM) 123
+1 Spider-Man, To the Rescue (MSH) 228
+1 Sensational Spider-Man (SPE) 25
+1 Virtuous Variant (MSC) 758
+1 Silk, Web Weaver (SPM) 145
+1 Spider-Man, Web-Spinner (MSC) 832
+1 Spider-UK (MSC) 777
+1 Spider-Woman, Secret Agent (MSH) 229
+1 Sun-Spider, Nimble Webber (SPM) 154
+1 Spider-Man, Brooklyn Visionary (SPM) 115
+1 Ghost-Spider, Gwen Stacy (SPE) 14
+1 Spider-Man, Peter Parker (SPE) 4
+1 Spider-Man Noir (SPM) 67
+1 SP//dr, Piloted by Peni (SPM) 147
+1 Spider-Man 2099, Miguel O'Hara (SPE) 8
+1 Spider-Man India (SPM) 151
+1 Web-Warriors (SPM) 159
+1 Spider-Man, Miles Morales (SPE) 18
+1 Spider-Rex, Daring Dino (MSC) 818
+1 Spider-Suit (SPM) 176
+1 Origin of Spider-Man (SPM) 9
+1 Spider-Mobile (MSC) 826
+1 Spider-Verse (SPM) 93
+1 Herald's Horn (LCC) 304
+1 Kindred Discovery (MSC) 150
+1 Guardian Project (RVR) 146
+1 Return of the Wildspeaker (ECC) 115
+1 Garruk's Uprising (ECC) 109
+1 Sol Ring (FRC) 21
+1 Arcane Signet (FRC) 20
+1 Chromatic Lantern (MBC) 73
+1 Farseek (MSC) 173
+1 Nature's Lore (MSC) 177
+1 Three Visits (MSC) 181
+1 Cultivate (MSC) 172
+1 Kodama's Reach (ECC) 113
+1 Swords to Plowshares (FRC) 37
+1 Path to Exile (FRC) 30
+1 Counterspell (DSC) 114
+1 Heroic Intervention (CMM) 295
+1 Boros Charm (FDN) 721
+1 Assassin's Trophy (SOC) 294
+1 Beast Within (MSC) 169
+1 Chaos Warp (MBC) 72
+1 Generous Gift (MSC) 133
+1 Anguished Unmaking (SOC) 293
+1 Command Tower (FRC) 22
+1 Path of Ancestry (MBC) 80
+1 Cavern of Souls (LCI) 269
+1 Secluded Courtyard (MSC) 265
+1 Unclaimed Territory (MSC) 275
+1 Plaza of Heroes (MSC) 255
+1 Exotic Orchard (MBC) 79
+1 City of Brass (TMC) 62
+1 Mana Confluence (JOU) 163
+1 Spara's Headquarters (SNC) 257
+1 Raffine's Tower (SNC) 254
+1 Xander's Lounge (SNC) 260
+1 Ziatora's Proving Ground (SNC) 261
+1 Jetmir's Garden (SNC) 250
+1 Hallowed Fountain (TRK) 286
+1 Watery Grave (TRK) 306
+1 Blood Crypt (TRK) 278
+1 Stomping Ground (TRK) 299
+1 Temple Garden (TRK) 301
+1 Godless Shrine (TRK) 285
+1 Steam Vents (TRK) 298
+1 Overgrown Tomb (TRK) 289
+1 Sacred Foundry (TRK) 295
+1 Breeding Pool (TRK) 279
+1 Windswept Heath (MH3) 235
+1 Wooded Foothills (MH3) 236
+1 Flooded Strand (MH3) 220
+1 Bloodstained Mire (MH3) 216
+3 Forest (TRK) 325
+2 Plains (TRK) 317
+1 Island (TRK) 319
+1 Swamp (TRK) 321
+1 Mountain (TRK) 323
+
+COMMANDER:
+1 Cosmic Spider-Man (SPM) 127

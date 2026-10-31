@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="744" height="1039" viewBox="0 0 744 1039" font-family="Georgia, 'Times New Roman', serif">
+  <title>Bot opponent rules card</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#05060f"/>
+      <stop offset="0.45" stop-color="#0c1230"/>
+      <stop offset="1" stop-color="#150a2a"/>
+    </linearGradient>
+    <radialGradient id="nebBlue" cx="0.2" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#2f9bff" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#2f9bff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebPink" cx="0.85" cy="0.35" r="0.55">
+      <stop offset="0" stop-color="#ff4f8a" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff4f8a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebViolet" cx="0.7" cy="0.95" r="0.6">
+      <stop offset="0" stop-color="#8a4bff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#8a4bff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e4e6ea"/>
+      <stop offset="0.5" stop-color="#7d818b"/>
+      <stop offset="1" stop-color="#c9ccd2"/>
+    </linearGradient>
+    <linearGradient id="titleFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a2b33"/>
+      <stop offset="1" stop-color="#101117"/>
+    </linearGradient>
+    <pattern id="holo" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <line x1="0" y1="0" x2="0" y2="26" stroke="#9fd0ff" stroke-opacity="0.06" stroke-width="2"/>
+    </pattern>
+    <clipPath id="art"><rect width="744" height="1039" rx="32"/></clipPath>
+  </defs>
+
+  <rect width="744" height="1039" rx="38" fill="#000"/>
+
+  <g transform="translate(24 24) scale(0.935 0.954)">
+  <g clip-path="url(#art)">
+    <rect width="744" height="1039" fill="url(#bg)"/>
+    <rect width="744" height="1039" fill="url(#nebBlue)"/>
+    <rect width="744" height="1039" fill="url(#nebPink)"/>
+    <rect width="744" height="1039" fill="url(#nebViolet)"/>
+    <rect width="744" height="1039" fill="url(#holo)"/>
+    <g fill="#ffffff">
+      <circle cx="60" cy="150" r="1.6" fill-opacity="0.9"/>
+      <circle cx="130" cy="260" r="1.2" fill-opacity="0.7"/>
+      <circle cx="210" cy="140" r="1.8" fill-opacity="0.8"/>
+      <circle cx="300" cy="250" r="1.2" fill-opacity="0.6"/>
+      <circle cx="380" cy="132" r="1.4" fill-opacity="0.8"/>
+      <circle cx="470" cy="240" r="1.8" fill-opacity="0.7"/>
+      <circle cx="540" cy="150" r="1.2" fill-opacity="0.9"/>
+      <circle cx="620" cy="262" r="1.6" fill-opacity="0.7"/>
+      <circle cx="700" cy="138" r="1.3" fill-opacity="0.8"/>
+      <circle cx="90" cy="700" r="1.4" fill-opacity="0.5"/>
+      <circle cx="660" cy="820" r="1.6" fill-opacity="0.5"/>
+      <circle cx="40" cy="900" r="1.2" fill-opacity="0.5"/>
+      <circle cx="700" cy="600" r="1.2" fill-opacity="0.5"/>
+    </g>
+    <circle cx="372" cy="190" r="170" fill="none" stroke="#9fd0ff" stroke-opacity="0.18" stroke-width="2"/>
+    <circle cx="372" cy="190" r="120" fill="none" stroke="#ff7aa8" stroke-opacity="0.15" stroke-width="2"/>
+    <path d="M10 330 C 200 250, 540 400, 734 300" fill="none" stroke="#9fd0ff" stroke-opacity="0.2" stroke-width="2"/>
+  </g>
+
+  <g stroke="url(#metal)" stroke-width="3">
+    <rect x="26" y="28" width="692" height="90" rx="26" fill="url(#titleFill)" fill-opacity="0.94"/>
+    <rect x="26" y="268" width="692" height="50" rx="22" fill="url(#titleFill)" fill-opacity="0.94"/>
+  </g>
+
+  <g fill="#05060e" fill-opacity="0.62" stroke="url(#metal)" stroke-width="2">
+    <rect x="34" y="132" width="212" height="122" rx="18"/>
+    <rect x="266" y="132" width="212" height="122" rx="18"/>
+    <rect x="498" y="132" width="212" height="122" rx="18"/>
+  </g>
+
+  <rect x="26" y="332" width="692" height="602" rx="18" fill="#06070e" fill-opacity="0.8" stroke="url(#metal)" stroke-width="3"/>
+  <rect x="26" y="944" width="692" height="46" rx="20" fill="#06070e" fill-opacity="0.8" stroke="url(#metal)" stroke-width="3"/>
+
+  <g fill="#f4f2ea">
+    <text x="56" y="72" font-size="40" font-weight="bold">Bot Opponent</text>
+    <text x="56" y="102" font-size="22" font-style="italic" fill="#c9cdd8">Automaton rules</text>
+    <circle cx="676" cy="62" r="20" fill="#cfd2d8" stroke="#3b3d46" stroke-width="2"/>
+    <text x="676" y="71" font-size="26" font-weight="bold" text-anchor="middle" fill="#14151b">0</text>
+
+    <g text-anchor="middle">
+      <text x="140" y="212" font-size="64" font-weight="bold" fill="#ffd98a">40</text>
+      <text x="140" y="240" font-size="16" letter-spacing="3">STARTING LIFE</text>
+      <text x="372" y="212" font-size="64" font-weight="bold" fill="#ffd98a">0</text>
+      <text x="372" y="240" font-size="16" letter-spacing="3">CARDS IN HAND</text>
+      <text x="604" y="212" font-size="64" font-weight="bold" fill="#ffd98a">0</text>
+      <text x="604" y="240" font-size="16" letter-spacing="3">LANDS</text>
+    </g>
+
+    <text x="56" y="302" font-size="26" font-weight="bold">Automaton — Casual Mode</text>
+
+    <g font-size="24">
+      <text x="56" y="376" font-size="20" letter-spacing="4" fill="#ffd98a" font-weight="bold">ON ITS TURN</text>
+      <text x="56" y="408">1. Untap. It does not draw.</text>
+      <text x="56" y="439">2. Reveal cards until their total mana value</text>
+      <text x="84" y="470">is at least turn number + 1 (max 7).</text>
+      <text x="56" y="501">3. Cast every revealed card, in order.</text>
+      <text x="56" y="532">4. Attack you with every creature.</text>
+      <line x1="56" y1="550" x2="688" y2="550" stroke="#ffd98a" stroke-opacity="0.4"/>
+
+      <text x="56" y="582" font-size="20" letter-spacing="4" fill="#ffd98a" font-weight="bold">TARGETS</text>
+      <text x="56" y="614">• Removal hits your highest-mana-value target.</text>
+      <text x="56" y="645">• Burn kills the best creature it can.</text>
+      <text x="76" y="676">Otherwise it hits your face.</text>
+      <text x="56" y="707">• No legal target? Bottom of its library.</text>
+      <line x1="56" y1="725" x2="688" y2="725" stroke="#ffd98a" stroke-opacity="0.4"/>
+
+      <text x="56" y="757" font-size="20" letter-spacing="4" fill="#ffd98a" font-weight="bold">BLOCKS</text>
+      <text x="56" y="789">Only if the blocker kills the attacker and</text>
+      <text x="56" y="820">survives, or to stop lethal damage.</text>
+      <line x1="56" y1="838" x2="688" y2="838" stroke="#ffd98a" stroke-opacity="0.4"/>
+
+      <text x="56" y="870" font-size="20" letter-spacing="4" fill="#ffd98a" font-weight="bold">IGNORE</text>
+      <text x="56" y="902">Activated abilities, card draw, and search.</text>
+    </g>
+
+    <text x="372" y="974" font-size="19" text-anchor="middle" letter-spacing="2"><tspan fill="#ffd98a" font-weight="bold">CLOCK MODE</tspan><tspan dx="12">·</tspan><tspan dx="12" font-style="italic">reveal to turn + 3 (max 9)</tspan></text>
+
+    <g font-size="13" fill="#d8dbe4" letter-spacing="1">
+      <text x="46" y="1014">M  0001</text>
+      <text x="46" y="1027">BOT  ·  EN</text>
+      <text x="698" y="1020" text-anchor="end">Bot rules card for solo testing</text>
+    </g>
+  </g>
+  </g>
+</svg>

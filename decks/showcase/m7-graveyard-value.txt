@@ -1,0 +1,20 @@
+3 Deathrite Shaman (RVR) 175
+3 Stitcher's Supplier (TDC) 196
+4 Satyr Wayfinder (EOC) 106
+3 Grisly Salvage (TDC) 290
+4 Grim Flayer (DSC) 218
+3 Ghastly Demise (CMR) 129
+2 Life from the Loam (TDC) 96
+3 Eternal Witness (CMM) 286
+2 Splinterfright (INR) 217
+3 Gravedigger (M20) 103
+2 Dread Return (CMM) 153
+2 Golgari Grave-Troll (RVR) 144
+1 Lord of Extinction (TDC) 295
+2 Tasigur, the Golden Fang (TDC) 197
+4 Overgrown Tomb (TRK) 289
+4 Verdant Catacombs (MH2) 260
+2 Woodland Cemetery (SOC) 424
+1 Dakmor Salvage (EOC) 156
+6 Swamp (TRK) 321
+6 Forest (TRK) 325

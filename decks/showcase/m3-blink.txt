@@ -1,0 +1,18 @@
+4 Ephemerate (MH1) 7
+3 Momentary Blink (DMR) 15
+3 Spirited Companion (CMM) 838
+3 Wall of Omens (TDC) 138
+3 Charming Prince (FDN) 568
+4 Soulherder (KHC) 93
+4 Skyclave Apparition (SOC) 173
+3 Flickerwisp (2X2) 11
+1 Thassa, Deep-Dwelling (THB) 71
+4 Restoration Angel (INR) 38
+2 Solitude (MH2) 32
+3 Mulldrifter (ECC) 67
+4 Hallowed Fountain (TRK) 286
+4 Flooded Strand (MH3) 220
+2 Glacial Fortress (FRC) 73
+2 Mystic Gate (FRC) 76
+6 Plains (TRK) 317
+5 Island (TRK) 319

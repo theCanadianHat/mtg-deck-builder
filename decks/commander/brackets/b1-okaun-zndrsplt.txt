@@ -1,0 +1,81 @@
+1 Krark's Thumb (MRD) 190
+1 Chance Encounter (MH2) 277
+1 Tavern Scoundrel (MH2) 144
+1 Krark, the Thumbless (CMR) 189
+1 Breeches, the Blastmaker (OTJ) 197
+1 Crazed Firecat (TOR) 94
+1 Mirror March (RNA) 108
+1 Squee's Revenge (APC) 123
+1 Fiery Gambit (MRD) 90
+1 Game of Chaos (5ED) 232
+1 Chaotic Goo (TMP) 168
+1 Mutalith Vortex Beast (40K) 134
+1 Goblin Bangchuckers (M12) 137
+1 Goblin Artisans (CHR) 48
+1 Goblin Festival (UDS) 83
+1 Bottle of Suleiman (ME4) 184
+1 Sorcerer's Strongbox (M11) 213
+1 Wirefly Hive (DST) 161
+1 Crooked Scales (MMQ) 291
+1 Boompile (CMM) 371
+1 Frenetic Efreet (MIR) 264
+1 Karplusan Minotaur (CSP) 86
+1 Goblin Kaboomist (M15) 144
+1 Skyclaw Thrash (ARB) 89
+1 Molten Birth (UMA) 140
+1 Puppet's Verdict (MMQ) 208
+1 Invert Polarity (MH3) 190
+1 Mana Clash (9ED) 203
+1 Ral, Monsoon Mage // Ral, Leyline Prodigy (MH3) 247
+1 Goblin Lyre (ICE) 319
+1 Planar Chaos (JUD) 97
+1 Goblin Assassin (LGN) 95
+1 Mogg Assassin (EXO) 88
+1 Goblin Psychopath (SCG) 95
+1 Sol Ring (FRC) 21
+1 Arcane Signet (FRC) 20
+1 Izzet Signet (FRC) 58
+1 Mind Stone (MBC) 76
+1 Thought Vessel (MBC) 78
+1 Talisman of Creativity (FRC) 61
+1 Mulldrifter (ECC) 67
+1 Fact or Fiction (FRC) 41
+1 Divination (M19) 51
+1 Wheel of Fortune (VMA) 192
+1 Lightning Bolt (MSC) 806
+1 Chaos Warp (MBC) 72
+1 Fire // Ice (DMR) 215
+1 Izzet Charm (RVR) 190
+1 Counterspell (DSC) 114
+1 Negate (TMT) 47
+1 Mizzium Mortars (CLB) 803
+1 Abrade (SOC) 234
+1 Shivan Dragon (FDN) 763
+1 Air Elemental (M20) 44
+1 Niv-Mizzet, Parun (OTC) 235
+1 Young Pyromancer (TDC) 95
+1 Goblin Electromancer (TDC) 99
+1 Pestermite (MMA) 59
+1 Stormwing Entity (M21) 73
+1 Brazen Borrower // Petty Theft (SOC) 190
+1 Chandra, Torch of Defiance (FRA) 244
+1 Jace Beleren (CMM) 850
+1 Wizard's Lightning (DOM) 152
+1 The Gold Saucer (FIN) 279
+1 Command Tower (FRC) 22
+1 Izzet Boilerworks (OTC) 302
+1 Steam Vents (TRK) 298
+1 Shivan Reef (FRC) 83
+1 Wandering Fumarole (CLB) 928
+1 Spirebluff Canal (OTJ) 270
+1 Sulfur Falls (FRC) 84
+1 Izzet Guildgate (FDN) 691
+1 Evolving Wilds (MSC) 240
+1 Terramorphic Expanse (MSC) 273
+1 Reliquary Tower (SOC) 398
+12 Island (TRK) 319
+11 Mountain (TRK) 323
+
+COMMANDER:
+1 Okaun, Eye of Chaos (BBD) 6
+1 Zndrsplt, Eye of Wisdom (BBD) 5

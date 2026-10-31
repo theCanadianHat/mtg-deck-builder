@@ -1,0 +1,80 @@
+1 Akroma's Memorial
+1 Ancient Tomb
+1 Arcane Signet
+1 Bast, Panther Goddess
+1 Batterskull
+1 Beast Within
+1 Birds of Paradise
+1 Bountiful Promenade
+1 Branchloft Pathway
+1 Canopy Vista
+1 Cityscape Leveler
+1 Command Tower
+1 Dispatch
+1 Dora Milaje Elite
+1 Enlightened Tutor
+1 Everett K. Ross, Hapless Attaché
+1 Fight for the Throne
+12 Forest
+1 Fortified Village
+1 Foundry Inspector
+1 Gaea's Cradle
+1 Generous Gift
+1 Gilded Lotus
+1 Hammer of Nazahn
+1 Harmonize
+1 Helm of the Host
+1 Ingenious Smith
+1 Jhoira's Familiar
+1 Kimoyo Beads
+1 King Solomon's Frogs
+1 Lightning Greaves
+1 Loyal Guardian
+1 M'Baku, Jabari Chieftain
+1 Metalwork Colossus
+1 Meteor Golem
+1 Midnight Angel Armor
+1 N'Yami-Class Mother Ship
+1 Nakia, Wakandan Operative
+1 Nature's Lore
+1 Okoye, Mighty and Adored
+1 Overwhelming Stampede
+1 Palace Jailer
+1 Panther Robot
+12 Plains
+1 Queen Mother Ramonda
+1 Razorverge Thicket
+1 Royal Talon Fighter Jet
+1 Shuri's Fabricator
+1 Shuri, the Black Panther
+1 Skysovereign, Consul Flagship
+1 Smothering Tithe
+1 Sol Ring
+1 Solemn Simulacrum
+1 Storm, Queen of Wakanda
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Sword of the Animist
+1 Swords to Plowshares
+1 T'Chaka, Venerable King
+1 Teferi's Protection
+1 Temple Garden
+1 The Great Mound
+1 The One Ring
+1 The Spear of Bashenga
+1 Thran Dynamo
+1 Three Visits
+1 Throne of the High City
+1 Valorous Stance
+1 Vibranium Mining Mech
+1 Vibranium Strike Gauntlets
+1 W'Kabi, Shield of the Nation
+1 Wakanda Forever!
+1 Whispersilk Cloak
+1 Windswept Heath
+1 Worn Powerstone
+1 Wurmcoil Engine
+1 Zuri, Warrior of Wakanda
+
+COMMANDER:
+1 T'Challa, the Black Panther

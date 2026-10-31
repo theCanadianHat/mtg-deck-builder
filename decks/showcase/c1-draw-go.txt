@@ -1,0 +1,21 @@
+4 Counterspell (DSC) 114
+3 Mana Leak (2X2) 58
+2 Memory Lapse (EMA) 60
+2 Absorb (DMR) 186
+2 Archmage's Charm (MH1) 40
+2 Cryptic Command (IMA) 48
+4 Opt (TDC) 158
+3 Fact or Fiction (FRC) 41
+2 Swords to Plowshares (FRC) 37
+2 Path to Exile (FRC) 30
+1 Settle the Wreckage (HOB) 26
+2 Restoration Angel (INR) 38
+2 Vendilion Clique (A25) 76
+2 Snapcaster Mage (INR) 478
+2 Shark Typhoon (FRC) 44
+4 Hallowed Fountain (TRK) 286
+4 Flooded Strand (MH3) 220
+4 Celestial Colonnade (UMA) 238
+2 Mystic Gate (FRC) 76
+8 Island (TRK) 319
+3 Plains (TRK) 317

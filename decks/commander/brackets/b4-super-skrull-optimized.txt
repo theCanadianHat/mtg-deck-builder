@@ -1,0 +1,100 @@
+1 Sol Ring (FRC) 21
+1 Mana Vault (2X2) 308
+1 Grim Monolith (ULG) 126
+1 Chrome Mox (2XM) 240
+1 Mox Diamond (TPR) 228
+1 Lotus Petal (TPR) 225
+1 Arcane Signet (FRC) 20
+1 Chromatic Lantern (MBC) 73
+1 Coalition Relic (DMC) 180
+1 Fellwar Stone (MBC) 74
+1 Talisman of Hierarchy (SOC) 358
+1 Talisman of Resilience (DSC) 255
+1 Birds of Paradise (MSC) 170
+1 Farseek (MSC) 173
+1 Nature's Lore (MSC) 177
+1 Kodama's Reach (ECC) 113
+1 Cultivate (MSC) 172
+1 Demonic Tutor (CMM) 150
+1 Vampiric Tutor (DMR) 108
+1 Enlightened Tutor (DMR) 6
+1 Worldly Tutor (DMR) 185
+1 Mystical Tutor (DMR) 60
+1 Imperial Seal (2X2) 79
+1 Idyllic Tutor (THB) 24
+1 Thassa's Oracle (THB) 73
+1 Demonic Consultation (ME2) 85
+1 Tainted Pact (ODY) 164
+1 Laboratory Maniac (INR) 71
+1 Kiki-Jiki, Mirror Breaker (IMA) 136
+1 Zealous Conscripts (INR) 183
+1 Pestermite (MMA) 59
+1 Deceiver Exarch (CMA) 36
+1 Felidar Guardian (AER) 19
+1 Walking Ballista (2XM) 306
+1 Craterhoof Behemoth (TDM) 138
+1 Hornet Queen (DSC) 184
+1 Elspeth, Sun's Champion (FRC) 24
+1 Grave Titan (ECC) 74
+1 Sheoldred, the Apocalypse (DMU) 107
+1 Avenger of Zendikar (ECC) 98
+1 Doubling Season (FDN) 216
+1 Mondrak, Glory Dominus (ONE) 23
+1 Arcades, the Strategist (M19) 212
+1 Assault Formation (TDC) 246
+1 Skullclamp (MSC) 210
+1 Eternal Witness (CMM) 286
+1 Swords to Plowshares (FRC) 37
+1 Path to Exile (FRC) 30
+1 Assassin's Trophy (SOC) 294
+1 Vindicate (MH2) 294
+1 Anguished Unmaking (SOC) 293
+1 Chaos Warp (MBC) 72
+1 Toxic Deluge (MSC) 161
+1 Damnation (2X2) 73
+1 Fierce Guardianship (CMM) 94
+1 Force of Will (DMR) 50
+1 Mana Drain (2X2) 57
+1 Teferi's Protection (2X2) 32
+1 Cyclonic Rift (RVR) 40
+1 Rhystic Study (J22) 114
+1 Smothering Tithe (CMM) 57
+1 Phyrexian Arena (FDN) 180
+1 Sylvan Library (DMR) 179
+1 Necropotence (IMA) 98
+1 Mulldrifter (ECC) 67
+1 Command Tower (FRC) 22
+1 Ancient Tomb (UMA) 236
+1 Urborg, Tomb of Yawgmoth (TSR) 287
+1 Exotic Orchard (MBC) 79
+1 Mana Confluence (JOU) 163
+1 City of Brass (TMC) 62
+1 Verdant Catacombs (MH2) 260
+1 Misty Rainforest (MH2) 250
+1 Polluted Delta (MH3) 224
+1 Bloodstained Mire (MH3) 216
+1 Wooded Foothills (MH3) 236
+1 Windswept Heath (MH3) 235
+1 Flooded Strand (MH3) 220
+1 Arid Mesa (MH2) 244
+1 Marsh Flats (MH2) 248
+1 Scalding Tarn (MH2) 254
+1 Underground Sea (VMA) 323
+1 Badlands (VMA) 291
+1 Bayou (VMA) 293
+1 Scrubland (VMA) 313
+1 Volcanic Island (VMA) 324
+1 Tropical Island (VMA) 321
+1 Plateau (VMA) 308
+1 Savannah (VMA) 311
+1 Taiga (VMA) 317
+1 Tundra (VMA) 322
+1 Godless Shrine (TRK) 285
+1 Overgrown Tomb (TRK) 289
+1 Watery Grave (TRK) 306
+1 Blood Crypt (TRK) 278
+1 Indatha Triome (IKO) 248
+3 Swamp (TRK) 321
+
+COMMANDER:
+1 Super-Skrull (MSH) 115

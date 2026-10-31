@@ -1,0 +1,93 @@
+1 All Will Be One (PZA) 8
+1 Arcane Signet (DRC) 51
+1 Arid Mesa (MH2) 244
+1 Arni Slays the Troll (KHM) 201
+1 Ash Barrens (PLST) CM2-235
+1 Avacyn's Pilgrim (PLST) MM3-119
+1 Battle for Bretagard (KHM) 203
+1 Birds of Paradise (MSC) 170
+1 Boros Charm (C13) 179
+1 Branching Evolution (LCC) 234
+1 Canopy Vista (NCC) 389
+1 Casey Jones, Back Alley Brute (TMC) 22
+1 Cinder Glade (C19) 236
+1 Clash of the Eikons (FIN) 180
+1 Clifftop Retreat (PIP) 258
+1 Command Tower (CM2) 242
+1 Conclave Mentor (M21) 216
+1 Darksteel Plate (FIC) 342
+1 Delighted Halfling (LTR) 158
+1 Eladamri's Call (MH1) 197
+1 Elspeth Conquers Death (PLST) THB-13
+1 Enlightened Tutor (DMR) 6
+1 Evolution Sage (ONC) 108
+1 Evolving Wilds (PLST) C18-245
+1 Exotic Orchard (C21) 288
+1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
+1 Fall of the Impostor (KHM) 208
+1 Fire-Lit Thicket (FIC) 392
+6 Forest (J25) 95
+1 Garnet, Princess of Alexandria (FIN) 222
+1 Grateful Apparition (NCC) 202
+1 Hardened Scales (SOC) 272
+1 Heroic Intervention (MAR) 79
+1 Huatli's Raptor (WAR) 200
+1 Idyllic Tutor (THB) 24
+1 Invigorating Hot Spring (NEO) 223
+1 Jukai Naturalist (NEO) 225
+1 Kami of Whispered Hopes (MOM) 196
+1 Karn's Bastion (EOC) 163
+1 Kessig Wolf Run (CLB) 898
+1 Kumano Faces Kakkazan // Etching of Kumano (NEO) 152
+1 Lightning Greaves (2XM) 267
+1 Llanowar Elves (FDN) 227
+1 Long List of the Ents (LTR) 174
+1 Luminarch Aspirant (ZNR) 24
+1 Managorger Hydra (C21) 199
+1 Metastatic Evangel (MH3) 35
+1 Mikaeus, the Lunarch (JMP) 123
+3 Mountain (J25) 90
+1 Nature's Lore (CLB) 244
+1 Nesting Grounds (C20) 71
+1 Norn's Choirmaster (FDC) 41
+1 Ozolith, the Shattered Spire (MOM) 198
+3 Plains (J25) 81
+1 Pollenbright Druid (CMM) 312
+1 Power Conduit (MRD) 229
+1 Rootbound Crag (FIC) 416
+1 Rugged Prairie (BLC) 327
+1 Sacred Foundry (TRK) 295
+1 Sanctum Weaver (MH2) 171
+1 Satsuki, the Living Lore (NEO) 235
+1 Shalai and Hallar (MOC) 10
+1 Shield of the Oversoul (PLST) SHM-242
+1 Showdown of the Skalds (KHM) 229
+1 Sol Ring (C15) 268
+1 Song of Freyalise (DOM) 179
+1 Starfield Mystic (WOC) 76
+1 Stomping Ground (PRNA) 259p
+1 Storyweave (NEO) 209
+1 Sun Titan (CM2) 37
+1 Sunpetal Grove (MSC) 272
+1 Swiftfoot Boots (C16) 276
+1 Swords to Plowshares (DMR) 31
+1 Sythis, Harvest's Hand (MH2) 214
+1 Teachings of the Kirin // Kirin-Touched Orochi (NEO) 212
+1 Teferi's Protection (MAR) 51
+1 Temple Garden (TRK) 301
+1 Terramorphic Expanse (CM2) 273
+1 The Akroan War (THB) 124
+1 The Elder Dragon War (DMU) 121
+1 The First Iroan Games (THB) 170
+1 The Ozolith (PRM) 80853
+1 The Restoration of Eiganjo // Architect of Restoration (NEO) 34
+1 There and Back Again (LTR) 151
+1 Three Visits (WHO) 235
+1 Unbounded Potential (CMM) 67
+1 Urza's Saga (MB2) 114
+1 Weaver of Harmony (NEO) 213
+1 Windswept Heath (MH3) 235
+1 Wooded Foothills (MH3) 236
+
+COMMANDER:
+1 Sigurd, Jarl of Ravensthorpe (ACR) 66

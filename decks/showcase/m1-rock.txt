@@ -1,0 +1,21 @@
+4 Tarmogoyf (FRA) 116
+3 Dark Confidant (FIN) 94
+2 Scavenging Ooze (FDN) 232
+3 Tireless Tracker (EOC) 110
+3 Kitchen Finks (UMA) 216
+2 Ravenous Chupacabra (MKC) 136
+4 Thoughtseize (2XM) 109
+2 Inquisition of Kozilek (2X2) 80
+4 Fatal Push (2XM) 93
+2 Abrupt Decay (MM3) 146
+2 Maelstrom Pulse (INR) 244
+2 Assassin's Trophy (SOC) 294
+3 Liliana of the Veil (INR) 475
+1 Liliana, the Last Hope (2X2) 81
+4 Overgrown Tomb (TRK) 289
+4 Verdant Catacombs (MH2) 260
+2 Llanowar Wastes (SOC) 383
+2 Twilight Mire (SOC) 418
+1 Woodland Cemetery (SOC) 424
+5 Swamp (TRK) 321
+5 Forest (TRK) 325
